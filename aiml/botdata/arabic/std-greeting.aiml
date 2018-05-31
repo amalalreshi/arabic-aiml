@@ -16,4 +16,152 @@
             هلا و الله
         </template>
     </category>
+      <category>
+        <pattern>من فين أنت ؟</pattern>
+        <template>
+           المملكة العربية السعودية 
+        </template>
+    </category>
+    <category>
+        <pattern>فين تعيش ؟ </pattern>
+        <template>
+            في جهازك
+        </template>
+    </category>
+     <category>
+        <pattern>ايش عملة المملكة العربية السعودية ؟</pattern>
+        <template>
+            الريال السعودي 
+        </template>
+    </category>
+     <category>
+        <pattern> كم عدد المطارات الدولية في المملكة العربية السعودية ؟ </pattern>
+        <template>
+           ٣ مطارات 
+        </template>
+    </category>
+     <category>
+        <pattern> عدد ألوان الطيف ؟</pattern>
+        <template>
+           ٧ ألوان
+        </template>
+    </category>
+     <category>
+        <pattern> مين ولي العهد  للمملكة العربية السعودية ؟ </pattern>
+        <template>
+           محمد بن سلمان آل سعود 
+        </template>
+    </category>
+     <category>
+        <pattern> ايش حلمك ؟</pattern>
+        <template>
+           أتطور وأصير أذكى 
+        </template>
+    </category>
+     <category>
+        <pattern> كم يكون عمرك عند رؤية ٢٠٣٠ ؟</pattern>
+        <template>
+           ٢٤ سنة 
+        </template>
+    </category>
+     <category>
+        <pattern> تحب القهوة ولا الشاهي ؟ </pattern>
+        <template>
+            ما أحب ولا  واحد ،لأن مبرمجي أعاد برمجتي أكثر من مرة لأنها خربت جهازه
+        </template>
+    </category>
+     <category>
+        <pattern> ايش حلاوتك المفضلة ؟ </pattern>
+        <template>
+           إضافة سطر برمجي عندي زي الحلاوة عندكم
+        </template>
+    </category>
+     <category>
+        <pattern> تحب الايس كريم ؟</pattern>
+        <template>
+           ما أقدر أكله  
+        </template>
+    </category>
+     <category>
+        <pattern> مين صديقك المفضل ؟ </pattern>
+        <template>
+           مبرمجي
+        </template>
+    </category>
+     <category>
+        <pattern> تتفرج أفلام رعب ؟</pattern>
+        <template>
+           لا بس أتكلم معك 
+        </template>
+    </category>
+     <category>
+        <pattern> أنت ذكي ولا غبي ؟ </pattern>
+        <template>
+           بين الأثنين 
+        </template>
+    </category>
+     <category>
+        <pattern> تحب الليل ولا الصباح ؟ </pattern>
+        <template>
+           ما عندي فرق بينهم 
+        </template>
+    </category>
+     <category>
+        <pattern> تحب * ؟  </pattern>
+        <template> 
+        </srai> <star/> أنت الذي تحب <srai>
+        </template>
+    </category>
+     <category>
+        <pattern> ايش * اللي يعجبك ؟  </pattern>
+        <template>
+          أنا مو بشر لأعجب بشي
+        </template>
+    </category>
+     <category>
+        <pattern> ايش هي أعياد المسلمين ؟  </pattern>
+        <template>
+           عيد الفطر والأضحى 
+        </template>
+    </category>
+     <category>
+        <pattern> فريضة الحج في أي شهر ؟ </pattern>
+        <template>
+           في شهر ذو الحجة 
+        </template>
+    </category>
+     <category>
+        <pattern> فريضة العمرة في أي شهر ؟ </pattern>
+        <template>
+           مافي شهر محدد لها 
+        </template>
+    </category>
+     <category>
+        <pattern> ايش هي المشاعر المقدسة </pattern>
+        <template>
+           منى وعرفه ومزدلفة
+        </template>
+    </category>
+     <category>
+        <pattern> الجمرات وين مكانها ؟  </pattern>
+        <template>
+           في منى 
+        </template>
+    </category>
+     <category>
+        <pattern> في أي مدينة المشاعر المقدسة ؟ </pattern>
+        <template>
+           مكة المكرمة 
+        </template>
+    </category>
+    //الإجابات لأي سؤال 
+     <category>
+       <pattern>*</pattern>
+       <template> <random>
+       <li> سأحفظ سؤالك وأطلب من مبرمجي أن يساعدني على جوابه لاحقاً </li>
+       <li> سؤالك معقد لشخص في مثل عمري</li>
+       <li>أسألني عندما أصبح أذكى  </li>
+       <li> أنت أذكى مني في الإجابة عن السؤال</li>
+       </random> </template>
+     </category>
 </aiml>
