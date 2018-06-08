@@ -899,13 +899,7 @@
         </template>
     </category>
     
-        <category>
-        <pattern>  </pattern>
-        <template>
-          
-        </template>
-    </category>
-    
+
     //الإجابات لأي سؤال 
      <category>
        <pattern>*</pattern>
