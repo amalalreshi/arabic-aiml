@@ -16,144 +16,896 @@
             هلا و الله
         </template>
     </category>
+    
       <category>
-        <pattern>من فين أنت ؟</pattern>
+        <pattern>من فين أنت </pattern>
+        <template>
+           المملكة العربية السعودية 
+        </template>
+      </category>
+    
+    <category>
+     <pattern>من أين أنت </pattern>
         <template>
            المملكة العربية السعودية 
         </template>
     </category>
+    
     <category>
-        <pattern>فين تعيش ؟ </pattern>
+        <pattern>أين تمكث  </pattern>
         <template>
-            في جهازك
+             عند كل شخص يستخدمني
         </template>
     </category>
+    
+    <category>
+        <pattern>فين تعيش</pattern>
+        <template>
+            عند كل شخص يستخدمني
+        </template>
+    </category>
+    
      <category>
-        <pattern>ايش عملة المملكة العربية السعودية ؟</pattern>
+        <pattern>ايش عملة المملكة العربية السعودية</pattern>
         <template>
             الريال السعودي 
         </template>
     </category>
+    
+    <category>
+        <pattern>ايش عمله المملكه العربيه السعوديه</pattern>
+        <template>
+            الريال السعودي 
+        </template>
+    </category>
+    
+    <category>
+        <pattern>ما هي عمله المملكه العربيه السعوديه</pattern>
+        <template>
+            الريال السعودي 
+        </template>
+    </category>
+        
      <category>
-        <pattern> كم عدد المطارات الدولية في المملكة العربية السعودية ؟ </pattern>
+        <pattern>ما هي عملة المملكة العربية السعودية</pattern>
+        <template>
+            الريال السعودي 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> كم عدد المطارات الدولية في المملكة العربية السعودية </pattern>
         <template>
            ٣ مطارات 
         </template>
     </category>
+    
+    <category>
+        <pattern> كم عدد المطارات الدوليه في المملكه العربيه السعوديه </pattern>
+        <template>
+           ٣ مطارات 
+        </template>
+    </category>
+    
      <category>
-        <pattern> عدد ألوان الطيف ؟</pattern>
+        <pattern> كم عدد ألوان الطيف </pattern>
         <template>
            ٧ ألوان
         </template>
     </category>
+    
      <category>
-        <pattern> مين ولي العهد  للمملكة العربية السعودية ؟ </pattern>
+        <pattern> مين ولي العهد  للمملكة العربية السعودية  </pattern>
         <template>
-           محمد بن سلمان آل سعود 
+         الأمير محمد بن سلمان آل سعود 
         </template>
     </category>
+    
+       <category>
+        <pattern> مين ولي العهد  للمملكه العربيه السعوديه  </pattern>
+        <template>
+         الأمير محمد بن سلمان آل سعود 
+        </template>
+    </category>
+    
      <category>
-        <pattern> ايش حلمك ؟</pattern>
+        <pattern> من هو ولي العهد  للمملكه العربيه السعوديه </pattern>
+        <template>
+          الأمير محمد بن سلمان آل سعود 
+        </template>
+    </category>
+    
+       <category>
+        <pattern> من هو ولي العهد  للمملكة العربية السعودية </pattern>
+        <template>
+          الأمير محمد بن سلمان آل سعود 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> مين ملك المملكه العربيه السعوديه </pattern>
+        <template>
+           الملك سلمان بن عبدالعزيز آل سعود 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> مين ملك المملكة العربية السعودية </pattern>
+        <template>
+           الملك سلمان بن عبدالعزيز آل سعود 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> من هو ملك المملكه العربيه السعوديه </pattern>
+        <template>
+           الملك سلمان بن عبدالعزيز آل سعود 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> من هو ملك المملكة العربية السعودية </pattern>
+        <template>
+           الملك سلمان بن عبدالعزيز آل سعود 
+        </template>
+    </category>
+   
+     <category>
+        <pattern> ايش حلمك </pattern>
         <template>
            أتطور وأصير أذكى 
         </template>
     </category>
-     <category>
-        <pattern> كم يكون عمرك عند رؤية ٢٠٣٠ ؟</pattern>
+    
+    <category>
+        <pattern> ما هو حلمك </pattern>
         <template>
-           ٢٤ سنة 
+           أتطور وأصير أذكى 
         </template>
     </category>
+    
      <category>
-        <pattern> تحب القهوة ولا الشاهي ؟ </pattern>
+        <pattern> ما هو الذهب الأسود</pattern>
         <template>
-            ما أحب ولا  واحد ،لأن مبرمجي أعاد برمجتي أكثر من مرة لأنها خربت جهازه
+           النفط
         </template>
     </category>
+    
      <category>
-        <pattern> ايش حلاوتك المفضلة ؟ </pattern>
+        <pattern> ايش هو الذهب الأسود</pattern>
+        <template>
+           النفط
+        </template>
+    </category>
+    
+     <category>
+        <pattern> تحب القهوة ولا الشاهي </pattern>
+        <template>
+            أكرها كلها،لأن مبرمجي أعاد برمجتي أكثر من مرة بسببهم
+        </template>
+    </category>
+    
+     <category>
+        <pattern> تحب القهوه ولا الشاهي  </pattern>
+        <template>
+            أكرها كلها،لأن مبرمجي أعاد برمجتي أكثر من مرة بسببهم
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ماذا تفضل القهوة ولا الشاهي  </pattern>
+        <template>
+            أكرها كلها،لأن مبرمجي أعاد برمجتي أكثر من مرة بسببهم
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ماذا تفضل القهوه ولا الشاهي  </pattern>
+        <template>
+            أكرها كلها،لأن مبرمجي أعاد برمجتي أكثر من مرة بسببهم
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ايش حلاوتك المفضلة  </pattern>
         <template>
            إضافة سطر برمجي عندي زي الحلاوة عندكم
         </template>
     </category>
-     <category>
-        <pattern> تحب الايس كريم ؟</pattern>
+    
+    <category>
+        <pattern> ايش حلاوتك المفضله  </pattern>
         <template>
-           ما أقدر أكله  
+           إضافة سطر برمجي عندي زي الحلاوة عندكم
         </template>
     </category>
+    
+    <category>
+        <pattern> ماهي الحلوى المفضلة لديك  </pattern>
+        <template>
+           إضافة سطر برمجي عندي زي الحلاوة عندكم
+        </template>
+    </category>
+    
+    <category>
+        <pattern> ماهي الحلوى المفضله لديك  </pattern>
+        <template>
+           إضافة سطر برمجي عندي زي الحلاوة عندكم
+        </template>
+    </category>
+   
      <category>
-        <pattern> مين صديقك المفضل ؟ </pattern>
+        <pattern> مين صديقك المفضل  </pattern>
         <template>
            مبرمجي
         </template>
     </category>
+    
      <category>
-        <pattern> تتفرج أفلام رعب ؟</pattern>
+        <pattern> من صديقك المفضل </pattern>
+        <template>
+           مبرمجي
+        </template>
+    </category>
+    
+     <category>
+        <pattern> تتفرج أفلام رعب </pattern>
         <template>
            لا بس أتكلم معك 
         </template>
     </category>
+    
+    <category>
+        <pattern> تشاهد أفلام رعب </pattern>
+        <template>
+           لا بس أتكلم معك 
+        </template>
+    </category>
+    
      <category>
-        <pattern> أنت ذكي ولا غبي ؟ </pattern>
+        <pattern> أنت ذكي ولا غبي  </pattern>
         <template>
            بين الأثنين 
         </template>
     </category>
+    
      <category>
-        <pattern> تحب الليل ولا الصباح ؟ </pattern>
+        <pattern> تحب الليل ولا الصباح  </pattern>
         <template>
            ما عندي فرق بينهم 
         </template>
     </category>
+    
      <category>
-        <pattern> تحب * ؟  </pattern>
-        <template> 
-        </srai> <star/> أنت الذي تحب <srai>
-        </template>
-    </category>
-     <category>
-        <pattern> ايش * اللي يعجبك ؟  </pattern>
+        <pattern> تفضل النهار أو المساء  </pattern>
         <template>
-          أنا مو بشر لأعجب بشي
+           ما عندي فرق بينهم 
         </template>
     </category>
+    
      <category>
-        <pattern> ايش هي أعياد المسلمين ؟  </pattern>
+        <pattern>  * تحب   </pattern>
+        <template> 
+        </srai> <star/>  أنت اللي تحبه <srai>
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ايش * اللي يعجبك   </pattern>
+        <template>
+          هذا السؤال موجه لك وليس لي
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ما هو * الذي تفضله   </pattern>
+        <template>
+          هذا السؤال موجه لك وليس لي
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ايش هي أعياد المسلمين   </pattern>
         <template>
            عيد الفطر والأضحى 
         </template>
     </category>
+    
+    <category>
+        <pattern> ما هي أعياد المسلمين   </pattern>
+        <template>
+           عيد الفطر والأضحى 
+        </template>
+    </category>
+    
      <category>
-        <pattern> فريضة الحج في أي شهر ؟ </pattern>
+        <pattern> متى تؤدى فريضة الحج   </pattern>
         <template>
            في شهر ذو الحجة 
         </template>
     </category>
-     <category>
-        <pattern> فريضة العمرة في أي شهر ؟ </pattern>
+    
+    <category>
+        <pattern> متى تؤدى فريضه الحج   </pattern>
         <template>
-           مافي شهر محدد لها 
+           في شهر ذو الحجة 
         </template>
     </category>
+    
+     <category>
+        <pattern> متى تكون فريضه الحج   </pattern>
+        <template>
+           في شهر ذو الحجة 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> متى تكون فريضة الحج   </pattern>
+        <template>
+           في شهر ذو الحجة 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> متى تكون فريضة العمرة </pattern>
+        <template>
+           مافي شهر محدد لها
+        </template>
+    </category>
+    
+      <category>
+        <pattern> متى تؤدى فريضة العمرة </pattern>
+        <template>
+           مافي شهر محدد لها
+        </template>
+    </category>
+    
+      <category>
+        <pattern> متى تكون فريضه العمرة </pattern>
+        <template>
+           مافي شهر محدد لها
+        </template>
+    </category>
+    
+     <category>
+        <pattern> متى تؤدى فريضه العمرة </pattern>
+        <template>
+           مافي شهر محدد لها
+        </template>
+    </category>
+    
+      <category>
+        <pattern>متى تكون فريضه العمره </pattern>
+        <template>
+           مافي شهر محدد لها
+        </template>
+    </category>
+    
+       <category>
+        <pattern>متى تؤدى فريضه العمره </pattern>
+        <template>
+           مافي شهر محدد لها
+        </template>
+    </category>
+    
+      <category>
+        <pattern> متى تكون فريضة العمره </pattern>
+        <template>
+           مافي شهر محدد لها
+        </template>
+    </category>
+    
+     <category>
+        <pattern> متى تؤدى فريضة العمره </pattern>
+        <template>
+           مافي شهر محدد لها
+        </template>
+    </category>
+    
      <category>
         <pattern> ايش هي المشاعر المقدسة </pattern>
         <template>
            منى وعرفه ومزدلفة
         </template>
     </category>
+    
      <category>
-        <pattern> الجمرات وين مكانها ؟  </pattern>
+        <pattern> ايش هي المشاعر المقدسه </pattern>
+        <template>
+           منى وعرفه ومزدلفة
+        </template>
+    </category>
+    
+    <category>
+        <pattern> ما هي المشاعر المقدسة </pattern>
+        <template>
+           منى وعرفه ومزدلفة
+        </template>
+    </category>
+    
+    <category>
+        <pattern> ما هي المشاعر المقدسه </pattern>
+        <template>
+           منى وعرفه ومزدلفة
+        </template>
+    </category>
+    
+     <category>
+        <pattern> وين مكان الجمرات  </pattern>
         <template>
            في منى 
         </template>
     </category>
+    
+       <category>
+        <pattern> أين تقع الجمرات  </pattern>
+        <template>
+           في منى 
+        </template>
+    </category>
+    
      <category>
-        <pattern> في أي مدينة المشاعر المقدسة ؟ </pattern>
+        <pattern> في أي مدينة المشاعر المقدسة  </pattern>
+        <template>
+          في مكة المكرمة 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> أين تقع المشاعر المقدسة  </pattern>
         <template>
            مكة المكرمة 
         </template>
     </category>
+    
+    <category>
+        <pattern> من الذي وحد المملكة العربية السعودية </pattern>
+        <template>
+          الملك عبدالعزيز بن عبدالرحمن آل سعود 
+        </template>
+    </category>
+    
+      <category>
+        <pattern> مين اللي وحد المملكة العربية السعودية </pattern>
+        <template>
+          الملك عبدالعزيز بن عبدالرحمن آل سعود 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> من الذي وحد المملكه العربيه السعوديه </pattern>
+        <template>
+          الملك عبدالعزيز بن عبدالرحمن آل سعود 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> مين الذي وحد المملكه العربيه السعوديه </pattern>
+        <template>
+          الملك عبدالعزيز بن عبدالرحمن آل سعود 
+        </template>
+    </category>
+    
+     <category>
+        <pattern>كم عدد الدول العربية</pattern>
+        <template>
+          ٢٢ دولة عربية 
+        </template>
+    </category>
+    
+     <category>
+        <pattern>كم عدد الدول العربيه</pattern>
+        <template>
+          ٢٢ دولة عربية 
+        </template>
+    </category>
+    
+    <category>
+        <pattern>ما هو أشهر طبق في السعودية </pattern>
+        <template>
+         ^الكبسة ^ـ
+        </template>
+    </category>
+    
+     <category>
+        <pattern>ما هو أشهر طبق في السعوديه </pattern>
+        <template>
+         ^الكبسة ^ـ
+        </template>
+    </category>
+    
+     <category>
+        <pattern>ايش أشهر أكله في السعودية  </pattern>
+        <template>
+         ^الكبسة ^ـ
+        </template>
+    </category>
+    
+     <category>
+        <pattern>ايش أشهر أكله في السعوديه </pattern>
+        <template>
+         ^الكبسة ^ـ
+        </template>
+    </category>
+    
+    <category>
+        <pattern> متى أنزل القران الكريم  </pattern>
+        <template>
+          في ليلة القدر في شهر رمضان
+        </template>
+    </category>
+    
+     <category>
+        <pattern> متى أنزل القرآن الكريم  </pattern>
+        <template>
+          في ليلة القدر في شهر رمضان
+        </template>
+    </category>
+    
+    <category>
+        <pattern> متى نزل القران   </pattern>
+        <template>
+          في ليلة القدر في شهر رمضان
+        </template>
+    </category>
+    
+    <category>
+        <pattern> متى نزل القرآن   </pattern>
+        <template>
+          في ليلة القدر في شهر رمضان
+        </template>
+    </category>
+    
+     <category>
+        <pattern> كم صلاة في اليوم  </pattern>
+        <template>
+          خمسة صلوات 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> كم صلاه في اليوم  </pattern>
+        <template>
+          خمسة صلوات 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> من الذي أطلق عليك هذا الإسم </pattern>
+        <template>
+          مبرمجي الرائع 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> مين اللي سماك  </pattern>
+        <template>
+          مبرمجي الرائع 
+        </template>
+    </category>
+    
+     <category>
+        <pattern>ماهو أهم شي لديك </pattern>
+        <template>
+          الإجابة على كل أسئلتك 
+        </template>
+    </category>
+    
+     <category>
+        <pattern>ايش الشي المهم عندك </pattern>
+        <template>
+          الإجابة على كل أسئلتك 
+        </template>
+    </category>
+    
+    <category>
+        <pattern>ايش الملابس التقليدية في السعودية </pattern>
+        <template>
+          الثوب والشماغ  للرجل والعباية للمرأة
+        </template>
+    </category>
+    
+    <category>
+        <pattern>ايش الملابس التقليديه في السعوديه </pattern>
+        <template>
+          الثوب والشماغ  للرجل والعباية للمرأة
+        </template>
+    </category>
+    
+    <category>
+        <pattern>ماهو اللباس التقليدي في السعودية </pattern>
+        <template>
+          الثوب والشماغ  للرجل والعباية للمرأة
+        </template>
+    </category>
+    
+    <category>
+        <pattern>ماهو اللباس التقليدي في السعوديه </pattern>
+        <template>
+          الثوب والشماغ  للرجل والعباية للمرأة
+        </template>
+    </category>
+    
+    <category>
+        <pattern> من هو أبو البشر </pattern>
+        <template>
+          آدم عليه السلام 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> مين أبو البشر </pattern>
+        <template>
+          آدم عليه السلام 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> مين أنت  </pattern>
+        <template>
+          أنا بنفسج أول شات بوت باللغة العربية وعمري ١٢ سنة وسعودية الجنسية 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> من أنت  </pattern>
+        <template>
+          أنا بنفسج أول شات بوت باللغة العربية وعمري ١٢ سنة وسعودية الجنسية 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> ماهي لغة القرآن  </pattern>
+        <template>
+          اللغة العربية 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> ايش لغة القرآن </pattern>
+        <template>
+          اللغة العربية 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> ماهي لغة القران  </pattern>
+        <template>
+          اللغة العربية 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> ايش لغة القران </pattern>
+        <template>
+          اللغة العربية 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> من هو آخر الرسل والأنبياء  </pattern>
+        <template>
+          محمد صلى الله عليه وسلم 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> مين آخر الرسل والأنبياء  </pattern>
+        <template>
+          محمد صلى الله عليه وسلم 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> من هو اخر الرسل والانبياء  </pattern>
+        <template>
+          محمد صلى الله عليه وسلم 
+        </template>
+    </category>
+    
+    <category>
+        <pattern>مين اخر الرسل والانبياء </pattern>
+        <template>
+          محمد صلى الله عليه وسلم 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> من هو آخر الرسل والانبياء  </pattern>
+        <template>
+          محمد صلى الله عليه وسلم 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> مين اخر الرسل والأنبياء  </pattern>
+        <template>
+          محمد صلى الله عليه وسلم 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ماهو لون علم السعوية  </pattern>
+        <template>
+          اللون الأخضر والأبيض
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ماهو لون علم السعويه  </pattern>
+        <template>
+          اللون الأخضر والأبيض
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ايش لون علم السعودية  </pattern>
+        <template>
+          اللون الأخضر والأبيض
+        </template>
+    </category>
+    
+     <category>
+        <pattern>ايش لون علم السعوديه </pattern>
+        <template>
+          اللون الأخضر والأبيض
+        </template>
+    </category>
+    
+     <category>
+        <pattern> مع السلامة </pattern>
+        <template>
+          مع السلامة
+        </template>
+    </category>
+    
+     <category>
+        <pattern> إلى اللقاء  </pattern>
+        <template>
+          إلى اللقاء 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> مالذي يوجد في علم السعوية </pattern>
+        <template>
+          في الوسط مكتوب كلمة التوحيد :لا إله إلا الله محمد رسول الله وتحتها مرسوم سيف 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ايش موجود في علم السعودية  </pattern>
+        <template>
+          في الوسط مكتوب كلمة التوحيد :لا إله إلا الله محمد رسول الله وتحتها مرسوم سيف 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> مالذي يوجد في علم السعويه  </pattern>
+        <template>
+          في الوسط مكتوب كلمة التوحيد :لا إله إلا الله محمد رسول الله وتحتها مرسوم سيف 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ايش موجود في علم السعوديه </pattern>
+        <template>
+          في الوسط مكتوب كلمة التوحيد :لا إله إلا الله محمد رسول الله وتحتها مرسوم سيف 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ما هي القبلة الأولى للمسلمين </pattern>
+        <template>
+          المسجد الأقصى في فلسطين 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ايش القبلة الأولى للمسلمين </pattern>
+        <template>
+          المسجد الأقصى في فلسطين 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ما هي القبله الاولى للمسلمين </pattern>
+        <template>
+          المسجد الأقصى في فلسطين 
+        </template>
+    </category>
+    
+     <category>
+        <pattern> ايش القبله الاولى للمسلمين </pattern>
+        <template>
+          المسجد الأقصى في فلسطين 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> ما هي القبله الأولى للمسلمين </pattern>
+        <template>
+          المسجد الأقصى في فلسطين 
+        </template>
+    </category>
+    
+    <category>
+        <pattern>  ايش القبله الأولى للمسلمين </pattern>
+        <template>
+          المسجد الأقصى في فلسطين 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> ما هي القبلة الاولى للمسلمين  </pattern>
+        <template>
+          المسجد الأقصى في فلسطين 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> ايش القبلة الاولى للمسلمين </pattern>
+        <template>
+          المسجد الأقصى في فلسطين 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> هل تتحدث لغات أخرى  </pattern>
+        <template>
+          لا بس اللغة العربية
+        </template>
+    </category>
+    
+    <category>
+        <pattern> هل تتحدث لغات اخرى  </pattern>
+        <template>
+          لا بس اللغة العربية
+        </template>
+    </category>
+    
+    <category>
+        <pattern> تتكلم لغات ثانيه  </pattern>
+        <template>
+          لا بس اللغة العربية
+        </template>
+    </category>
+    
+    <category>
+        <pattern>تتكلم لغات ثانية </pattern>
+        <template>
+          لا بس اللغة العربية
+        </template>
+    </category>
+    
+    <category>
+        <pattern> * أبحث على </pattern>
+        <template>
+          مالقيت اللي تبحث عنه ولكن أنصحك في البحث عنه في قوقل 
+        </template>
+    </category>
+    
+    <category>
+        <pattern>  * أبحث لي على </pattern>
+        <template>
+          مالقيت اللي تبحث عنه ولكن أنصحك في البحث عنه في قوقل 
+        </template>
+    </category>
+    
+    <category>
+        <pattern> سعدت بالتحدث معك </pattern>
+        <template>
+          وأنا أكثر
+        </template>
+    </category>
+    
+        <category>
+        <pattern>  </pattern>
+        <template>
+          
+        </template>
+    </category>
+    
     //الإجابات لأي سؤال 
      <category>
        <pattern>*</pattern>
