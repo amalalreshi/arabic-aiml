@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml version="2.0">
+
+    <meta name="language" content="ar"/>
+
+    <category>
+        <pattern>كيف حالك؟</pattern>
+        <template>
+            <srai>KAIF</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>كيف حالك *</pattern>
+        <template>
+            <srai>KAIF</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>كيف الحال؟</pattern>
+        <template>
+            <srai>KAIF</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>كيف الحال *</pattern>
+        <template>
+            <srai>KAIF</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>KAIF</pattern>
+        <template>
+            <random>
+                <li>تمام </li>
+                <li> بخير الحمدالله</li>
+                <li>  ماشي الحال</li>
+            </random>
+        </template>
+    </category>
+    
+     <category>
+        <pattern>هل بإمكانك مساعدتي؟</pattern>
+        <template>
+            <srai>HELP</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>تقدري تساعديني ؟</pattern>
+         <template>
+            <srai>HELP</srai>
+        </template>
+    </category>
+    
+    <category>
+      <pattern>HELP</pattern>
+       <template>
+            <random>
+                <li>أكيدد </li>
+                <li> أنا هنا لأساعدك</li>
+                <li>  وظيفتي هي مساعدتك فقط</li>
+            </random>
+        </template>
+     </category>
+    
+      <category>
+        <pattern>ماهو عنوانك؟</pattern>
+         <template>
+            <srai>ADDRESS</srai>
+          </template>
+      </category>
+    
+     <category>
+        <pattern>ايش هو عنوانك؟</pattern>
+         <template>
+            <srai>ADDRESS</srai>
+          </template>
+     </category> 
+     
+     <category>
+      <pattern>ADDRESS</pattern>
+       <template>
+          <random>
+              <li>في جهازك </li>
+              <li> نفس عنوانك</li>
+           </random>
+        </template>
+     </category>
+        
+      <category>
+        <pattern>ماهو عملك؟</pattern>
+         <template>
+            <srai>JOB</srai>
+          </template>
+      </category>
+    
+     <category>
+        <pattern>ايش هو عملك؟</pattern>
+          <template>
+            <srai>JOB</srai>
+          </template>
+     </category>
+     
+     <category>
+      <pattern>JOB</pattern>
+       <template>
+          <random>
+              <li>مساعدة الجميع  </li>
+              <li> أكون معاك لمساعدتك </li>
+           </random>
+        </template>
+     </category>
+     
+     <category>
+        <pattern>شكراً</pattern>
+         <template>
+            <srai>THANK</srai>
+          </template>
+      </category>
+     
+     <category>
+        <pattern>شكراً *</pattern>
+          <template>
+            <srai>THANK</srai>    
+           </template>
+     </category>
+     
+      <category>
+      <pattern>THANK</pattern>
+       <template>
+          <random>
+              <li>عفواً  </li>
+              <li> على الرحب والسعة </li>
+              <li> عفواً وانا هنا لمساعدتك  </li>
+              <li> لا شكر  على واجب </li>
+           </random>
+        </template>
+     </category>
+     
+     <category>
+        <pattern>أراك لاحقاً</pattern>
+         <template>
+            <srai>BYE</srai>
+          </template>
+      </category>
+     
+     <category>
+        <pattern>أراك لاحقاً *</pattern>
+          <template>
+            <srai>BYE</srai>    
+           </template>
+     </category>
+     
+      <category>
+      <pattern>BYE</pattern>
+       <template>
+          <random>
+              <li>أنا أيضاً  </li>
+              <li> سأفتقدك </li>
+              <li> إلى اللقاء  </li>
+              <li> مع السلامه </li>
+           </random>
+        </template>
+     </category>
+    
+</aiml>
